@@ -5,3 +5,5 @@
 然后在github创建一个仓库, 且必须和本地仓库同名
 
 建立起两个仓库的连接
+
+第一次将本地仓库推送到gitHub :   git push -u origin master
