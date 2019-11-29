@@ -9,3 +9,5 @@
 第一次将本地仓库推送到gitHub :   git push -u origin master
 
 拉取修改  git pull origin master
+
+提交自己的修改 :  git push origin master
