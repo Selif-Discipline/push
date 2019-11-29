@@ -7,3 +7,5 @@
 建立起两个仓库的连接
 
 第一次将本地仓库推送到gitHub :   git push -u origin master
+
+拉取修改  git pull origin master
